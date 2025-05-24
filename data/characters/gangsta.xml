@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="gangsta/gangsta" icon="face" color="#6F84DC">
+	<anim name="idle" anim="gangsta idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="gangsta Sing Note up" x="0" y="25" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="gangsta Sing note left" x="0" y="1" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="gangsta Sing Note right" x="0" y="-15" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="gangsta Sing Note down" x="0" y="-42" fps="24" loop="false"/>
+	<anim name="DARNELL??" anim="gangsta dumb ahh nih" x="0" y="22" fps="24" loop="true"/>
+</character>

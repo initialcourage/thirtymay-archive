@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="luvbunny-irl/luvbunny" icon="face">
+	<anim name="danceLeft" anim="krissy left idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="danceRight" anim="krissy right idle" x="5" y="2" fps="24" loop="false"/>
+</character>

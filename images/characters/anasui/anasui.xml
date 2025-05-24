@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="anasui.png" width="6711" height="1016">
+	<SubTexture name="anasui Sing Note down0000" x="1" y="1" width="452" height="709" frameX="-19" frameY="-20" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0001" x="1" y="1" width="452" height="709" frameX="-19" frameY="-20" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0002" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0003" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0004" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0005" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0006" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0007" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0008" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0009" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0010" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0011" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0012" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0013" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0014" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0015" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0016" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0017" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0018" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0019" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0020" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0021" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0022" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0023" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0024" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0025" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note down0026" x="456" y="1" width="487" height="728" frameX="-0" frameY="-0" frameWidth="487" frameHeight="729"/>
+	<SubTexture name="anasui Sing Note left0000" x="2281" y="1" width="525" height="944" frameX="-4" frameY="-4" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0001" x="2281" y="1" width="525" height="944" frameX="-4" frameY="-4" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0002" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0003" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0004" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0005" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0006" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0007" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0008" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0009" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0010" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0011" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0012" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0013" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0014" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0015" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0016" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0017" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0018" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0019" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0020" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0021" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0022" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0023" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0024" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0025" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note left0026" x="3320" y="1" width="550" height="947" frameX="-0" frameY="-1" frameWidth="551" frameHeight="949"/>
+	<SubTexture name="anasui Sing Note right0000" x="3873" y="1" width="534" height="949" frameX="-0" frameY="-0" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0001" x="3873" y="1" width="534" height="949" frameX="-0" frameY="-0" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0002" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0003" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0004" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0005" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0006" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0007" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0008" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0009" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0010" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0011" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0012" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0013" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0014" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0015" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0016" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0017" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0018" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0019" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0020" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0021" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0022" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0023" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0024" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0025" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note right0026" x="2809" y="1" width="508" height="946" frameX="-4" frameY="-3" frameWidth="534" frameHeight="950"/>
+	<SubTexture name="anasui Sing Note up0000" x="6228" y="1" width="482" height="1014" frameX="-1" frameY="-0" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0001" x="6228" y="1" width="482" height="1014" frameX="-1" frameY="-0" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0002" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0003" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0004" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0005" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0006" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0007" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0008" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0009" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0010" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0011" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0012" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0013" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0014" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0015" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0016" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0017" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0018" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0019" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0020" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0021" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0022" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0023" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0024" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0025" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui Sing Note up0026" x="5749" y="1" width="476" height="990" frameX="-0" frameY="-25" frameWidth="483" frameHeight="1015"/>
+	<SubTexture name="anasui idle dance0000" x="1393" y="1" width="443" height="931" frameX="-12" frameY="-28" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0001" x="1393" y="1" width="443" height="931" frameX="-12" frameY="-28" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0002" x="946" y="1" width="444" height="923" frameX="-13" frameY="-36" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0003" x="946" y="1" width="444" height="923" frameX="-13" frameY="-36" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0004" x="1839" y="1" width="439" height="931" frameX="-14" frameY="-28" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0005" x="1839" y="1" width="439" height="931" frameX="-14" frameY="-28" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0006" x="4410" y="1" width="444" height="953" frameX="-3" frameY="-6" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0007" x="4410" y="1" width="444" height="953" frameX="-3" frameY="-6" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0008" x="4857" y="1" width="444" height="957" frameX="-0" frameY="-2" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0009" x="4857" y="1" width="444" height="957" frameX="-0" frameY="-2" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0010" x="5304" y="1" width="442" height="959" frameX="-2" frameY="-0" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0011" x="5304" y="1" width="442" height="959" frameX="-2" frameY="-0" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0012" x="5304" y="1" width="442" height="959" frameX="-2" frameY="-0" frameWidth="457" frameHeight="960"/>
+	<SubTexture name="anasui idle dance0013" x="5304" y="1" width="442" height="959" frameX="-2" frameY="-0" frameWidth="457" frameHeight="960"/>
+</TextureAtlas>

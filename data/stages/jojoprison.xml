@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.5" folder="stages/jojoprison/">
+    <gf x="350" y="-50"/>
+    <combo/>
+    <sprite x="-400" y="-526" alpha="1" scale="1.35" sprite="bg" name="backGround"/>
+    <sprite x="-400" y="520" alpha="1" scale="1.35" sprite="ground" name="prisonGround"/>
+    <sprite x="0" y="0" alpha="1" scale="1" type="loop" sprite="crowd" name="daCrowd"/>
+    <dad x="-220" y="-250"/>
+    <boyfriend x="950" y="-200"/>
+</stage>

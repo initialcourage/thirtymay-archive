@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="girlmii.png" width="3088" height="3379">
+	<SubTexture name="gf left dance0000" x="1255" y="1875" width="388" height="620" frameX="-4" frameY="-4" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0001" x="1255" y="1875" width="388" height="620" frameX="-4" frameY="-4" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0002" x="1775" y="1" width="397" height="620" frameX="-0" frameY="-4" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0003" x="1775" y="1" width="397" height="620" frameX="-0" frameY="-4" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0004" x="865" y="1875" width="387" height="624" frameX="-6" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0005" x="865" y="1875" width="387" height="624" frameX="-6" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0006" x="2026" y="1882" width="357" height="622" frameX="-20" frameY="-2" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0007" x="2026" y="1882" width="357" height="622" frameX="-20" frameY="-2" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0008" x="2109" y="624" width="350" height="624" frameX="-21" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0009" x="2109" y="624" width="350" height="624" frameX="-21" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0010" x="2462" y="628" width="348" height="624" frameX="-21" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0011" x="2462" y="628" width="348" height="624" frameX="-21" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0012" x="2462" y="628" width="348" height="624" frameX="-21" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf left dance0013" x="2462" y="628" width="348" height="624" frameX="-21" frameY="-0" frameWidth="397" frameHeight="624"/>
+	<SubTexture name="gf no more spam time0000" x="1" y="703" width="393" height="779" frameX="-9" frameY="-0" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0001" x="1" y="703" width="393" height="779" frameX="-9" frameY="-0" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0002" x="1" y="703" width="393" height="779" frameX="-9" frameY="-0" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0003" x="1226" y="1255" width="460" height="617" frameX="-0" frameY="-162" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0004" x="1226" y="1255" width="460" height="617" frameX="-0" frameY="-162" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0005" x="1226" y="1255" width="460" height="617" frameX="-0" frameY="-162" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0006" x="1226" y="1255" width="460" height="617" frameX="-0" frameY="-162" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0007" x="1226" y="1255" width="460" height="617" frameX="-0" frameY="-162" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0008" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0009" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0010" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0011" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0012" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0013" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0014" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0015" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0016" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf no more spam time0017" x="1" y="1500" width="446" height="624" frameX="-7" frameY="-155" frameWidth="460" frameHeight="779"/>
+	<SubTexture name="gf right dance0000" x="2104" y="1255" width="366" height="605" frameX="-8" frameY="-19" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0001" x="2104" y="1255" width="366" height="605" frameX="-8" frameY="-19" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0002" x="1646" y="1882" width="377" height="602" frameX="-0" frameY="-22" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0003" x="1646" y="1882" width="377" height="602" frameX="-0" frameY="-22" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0004" x="1" y="2127" width="369" height="606" frameX="-1" frameY="-18" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0005" x="1" y="2127" width="369" height="606" frameX="-1" frameY="-18" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0006" x="2386" y="1863" width="350" height="623" frameX="-16" frameY="-1" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0007" x="2386" y="1863" width="350" height="623" frameX="-16" frameY="-1" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0008" x="1" y="2736" width="348" height="624" frameX="-25" frameY="-0" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0009" x="1" y="2736" width="348" height="624" frameX="-25" frameY="-0" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0010" x="1646" y="2487" width="348" height="624" frameX="-27" frameY="-0" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0011" x="1646" y="2487" width="348" height="624" frameX="-27" frameY="-0" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0012" x="1646" y="2487" width="348" height="624" frameX="-27" frameY="-0" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf right dance0013" x="1646" y="2487" width="348" height="624" frameX="-27" frameY="-0" frameWidth="377" frameHeight="624"/>
+	<SubTexture name="gf spam time0000" x="2462" y="1" width="349" height="624" frameX="-138" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0001" x="2462" y="1" width="349" height="624" frameX="-138" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0002" x="1255" y="2498" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0003" x="1255" y="2498" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0004" x="734" y="2502" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0005" x="734" y="2502" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0006" x="352" y="2754" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0007" x="352" y="2754" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0008" x="2386" y="2489" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0009" x="2386" y="2489" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0010" x="2386" y="2489" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0011" x="2386" y="2489" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0012" x="1997" y="2507" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0013" x="1997" y="2507" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0014" x="2737" y="2489" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0015" x="2737" y="2489" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0016" x="2739" y="1255" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0017" x="2739" y="1255" width="348" height="624" frameX="-139" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0018" x="373" y="2127" width="358" height="624" frameX="-129" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0019" x="373" y="2127" width="358" height="624" frameX="-129" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0020" x="870" y="1" width="487" height="624" frameX="-0" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0021" x="870" y="1" width="487" height="624" frameX="-0" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0022" x="1226" y="628" width="465" height="624" frameX="-22" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0023" x="1226" y="628" width="465" height="624" frameX="-22" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0024" x="450" y="1500" width="412" height="624" frameX="-90" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0025" x="450" y="1500" width="412" height="624" frameX="-90" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0026" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0027" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0028" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0029" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0030" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0031" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0032" x="1689" y="1255" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0033" x="1360" y="1" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0034" x="1360" y="1" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0035" x="1694" y="628" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0036" x="1694" y="628" width="412" height="624" frameX="-89" frameY="-126" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0037" x="1" y="1" width="452" height="699" frameX="-71" frameY="-51" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0038" x="1" y="1" width="452" height="699" frameX="-71" frameY="-51" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0039" x="456" y="1" width="411" height="750" frameX="-109" frameY="-0" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0040" x="456" y="1" width="411" height="750" frameX="-109" frameY="-0" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0041" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0042" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0043" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0044" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0045" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0046" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0047" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0048" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0049" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0050" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0051" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0052" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf spam time0053" x="812" y="754" width="411" height="742" frameX="-109" frameY="-8" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf static spam time0000" x="812" y="754" width="411" height="742" frameX="-1" frameY="-0" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf static spam time0001" x="812" y="754" width="411" height="742" frameX="-1" frameY="-0" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf static spam time0002" x="397" y="754" width="412" height="743" frameX="-0" frameY="-0" frameWidth="523" frameHeight="750"/>
+	<SubTexture name="gf static spam time0003" x="397" y="754" width="412" height="743" frameX="-0" frameY="-0" frameWidth="523" frameHeight="750"/>
+</TextureAtlas>

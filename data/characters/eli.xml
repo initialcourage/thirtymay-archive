@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="eli-irl/eli" icon="face" color="#E283FF">
+	<anim name="idle" anim="eli idle dance" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="eli Sing Note up" x="-11" y="-5" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="eli Sing Note left" x="125" y="-20" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="eli Sing Note right" x="-65" y="-23" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="eli Sing Note down" x="-40" y="-196" fps="24" loop="false"/>
+	<anim name="hey" anim="eli HEY" x="179" y="6" fps="24" loop="false"/>
+</character>

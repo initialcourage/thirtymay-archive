@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="boymii/boymii" flipX="true" isPlayer="true" icon="face" gameOverChar="boyded">
+	<anim name="idle" anim="bf idle dance" x="-5" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="bf Sing Note up" x="-24" y="52" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="bf Sing Note left" x="26" y="-47" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="bf Sing Note right" x="-60" y="-10" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="bf Sing Note down" x="-17" y="-30" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="bf spam time animation" x="5" y="25" fps="24" loop="true" indices="265"/>
+	<anim name="singUP-alt" anim="bf Alt Note up" x="-15" y="55" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="bf Alt Note left" x="30" y="-30" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="bf Alt Note right" x="-60" y="5" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="bf Alt Note down" x="-20" y="-35" fps="24" loop="false"/>
+	<anim name="hey" anim="bf HEY" x="-6" y="0" fps="24" loop="false"/>
+	<anim name="whatRUDoing" anim="bf spam time animation" x="47" y="16" fps="24" loop="false"/>
+	<anim name="calmed" anim="bf no more spam" x="-20" y="16" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="bf Miss Note up" x="-45" y="62" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="bf Miss Note left" x="21" y="-51" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="bf Miss Note right" x="-69" y="-13" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="bf Miss Note down" x="-16" y="-34" fps="24" loop="false"/>
+</character>

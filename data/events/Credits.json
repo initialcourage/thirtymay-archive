@@ -1,0 +1,29 @@
+{
+    "params": [
+        {
+            "name": "Composer",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Artist",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Coder",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "Charter",
+            "type": "String",
+            "defaultValue": ""
+        },
+        {
+            "name": "FadeOut Timer",
+            "type": "String",
+            "defaultValue": "2"
+        }
+    ]
+}

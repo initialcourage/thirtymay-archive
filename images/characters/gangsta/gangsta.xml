@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="gangsta.png" width="4170" height="4610">
+	<SubTexture name="gangsta Sing Note down0000" x="3517" y="3773" width="583" height="706" frameX="-0" frameY="-27" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0001" x="2931" y="3857" width="583" height="706" frameX="-0" frameY="-27" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0002" x="3517" y="3038" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0003" x="3543" y="764" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0004" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0005" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0006" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0007" x="3543" y="1499" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0008" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0009" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0010" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0011" x="3543" y="1499" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0012" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0013" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0014" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0015" x="3543" y="1499" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0016" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0017" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0018" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0019" x="3543" y="1499" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0020" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0021" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0022" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0023" x="3543" y="1499" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0024" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0025" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note down0026" x="3586" y="1" width="583" height="732" frameX="-0" frameY="-0" frameWidth="583" frameHeight="733"/>
+	<SubTexture name="gangsta Sing Note right0000" x="2345" y="3137" width="583" height="748" frameX="-0" frameY="-11" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0001" x="587" y="3140" width="583" height="748" frameX="-0" frameY="-11" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0002" x="2957" y="1540" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0003" x="1" y="3132" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0004" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0005" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0006" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0007" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0008" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0009" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0010" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0011" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0012" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0013" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0014" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0015" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0016" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0017" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0018" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0019" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0020" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0021" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0022" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0023" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0024" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0025" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note right0026" x="2931" y="3095" width="583" height="759" frameX="-0" frameY="-0" frameWidth="583" frameHeight="760"/>
+	<SubTexture name="gangsta Sing Note up0000" x="1242" y="1" width="583" height="800" frameX="-0" frameY="-0" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0001" x="613" y="779" width="583" height="800" frameX="-0" frameY="-0" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0002" x="1785" y="804" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0003" x="1199" y="804" width="583" height="781" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0004" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0005" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0006" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0007" x="587" y="1582" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0008" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0009" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0010" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0011" x="587" y="1582" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0012" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0013" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0014" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0015" x="587" y="1582" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0016" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0017" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0018" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0019" x="587" y="1582" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0020" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0021" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0022" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0023" x="587" y="1582" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0024" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0025" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing Note up0026" x="1828" y="1" width="583" height="780" frameX="-0" frameY="-19" frameWidth="583" frameHeight="800"/>
+	<SubTexture name="gangsta Sing note left0000" x="587" y="2365" width="583" height="772" frameX="-0" frameY="-3" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0001" x="1" y="779" width="609" height="772" frameX="-0" frameY="-3" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0002" x="1" y="1" width="622" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0003" x="626" y="1" width="613" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0004" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0005" x="1785" y="1587" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0006" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0007" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0008" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0009" x="1785" y="1587" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0010" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0011" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0012" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0013" x="1785" y="1587" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0014" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0015" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0016" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0017" x="1785" y="1587" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0018" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0019" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0020" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0021" x="1785" y="1587" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0022" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0023" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0024" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0025" x="1785" y="1587" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta Sing note left0026" x="1" y="2354" width="583" height="775" frameX="-0" frameY="-0" frameWidth="622" frameHeight="776"/>
+	<SubTexture name="gangsta dumb ahh nih0000" x="1759" y="3878" width="583" height="731" frameX="-0" frameY="-65" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0001" x="2345" y="3888" width="583" height="691" frameX="-0" frameY="-105" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0002" x="1173" y="3881" width="583" height="719" frameX="-0" frameY="-77" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0003" x="587" y="3891" width="583" height="718" frameX="-0" frameY="-78" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0004" x="1" y="1554" width="583" height="797" frameX="-0" frameY="-0" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0005" x="1759" y="3140" width="583" height="735" frameX="-0" frameY="-62" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0006" x="1" y="3894" width="583" height="714" frameX="-0" frameY="-83" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0007" x="3517" y="2302" width="583" height="733" frameX="-0" frameY="-64" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0008" x="1173" y="3140" width="583" height="738" frameX="-0" frameY="-59" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta dumb ahh nih0009" x="2371" y="1562" width="583" height="766" frameX="-0" frameY="-31" frameWidth="583" frameHeight="797"/>
+	<SubTexture name="gangsta idle0000" x="3000" y="1" width="583" height="760" frameX="-0" frameY="-15" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0001" x="3000" y="1" width="583" height="760" frameX="-0" frameY="-15" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0002" x="2931" y="2331" width="583" height="761" frameX="-0" frameY="-14" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0003" x="2957" y="776" width="583" height="761" frameX="-0" frameY="-14" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0004" x="2345" y="2365" width="583" height="769" frameX="-0" frameY="-6" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0005" x="2345" y="2365" width="583" height="769" frameX="-0" frameY="-6" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0006" x="1173" y="1588" width="583" height="775" frameX="-0" frameY="-0" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0007" x="2371" y="784" width="583" height="775" frameX="-0" frameY="-0" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0008" x="2414" y="1" width="583" height="772" frameX="-0" frameY="-3" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0009" x="2414" y="1" width="583" height="772" frameX="-0" frameY="-3" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0010" x="1759" y="2365" width="583" height="772" frameX="-0" frameY="-3" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0011" x="1173" y="2366" width="583" height="771" frameX="-0" frameY="-3" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0012" x="1759" y="2365" width="583" height="772" frameX="-0" frameY="-3" frameWidth="583" frameHeight="775"/>
+	<SubTexture name="gangsta idle0013" x="1759" y="2365" width="583" height="772" frameX="-0" frameY="-3" frameWidth="583" frameHeight="775"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character antialiasing="true" sprite="pico/pico" icon="face" flipX="true" isPlayer="true">
+	<anim x="0" loop="false" y="0" fps="24" anim="pico death confirm" name="deathConfirm"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="pico loop death" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="pico die" name="firstDeath"/>
+</character>

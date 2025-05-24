@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="pHeart.png" width="2529" height="7109">
+	<SubTexture name="pink hearts0000" x="1" y="1" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0001" x="1" y="1" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0002" x="1" y="1" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0003" x="1" y="1" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0004" x="1" y="1" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0005" x="1" y="1" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0006" x="1" y="1423" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0007" x="1" y="1423" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0008" x="1" y="1423" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0009" x="1" y="1423" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0010" x="1" y="1423" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0011" x="1" y="1423" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0012" x="1" y="2845" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0013" x="1" y="2845" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0014" x="1" y="2845" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0015" x="1" y="2845" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0016" x="1" y="2845" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0017" x="1" y="2845" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0018" x="1" y="4267" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0019" x="1" y="4267" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0020" x="1" y="4267" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0021" x="1" y="4267" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0022" x="1" y="4267" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0023" x="1" y="4267" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0024" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0025" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0026" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0027" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0028" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0029" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+	<SubTexture name="pink hearts0030" x="1" y="5689" width="2527" height="1419" frameX="-0" frameY="-0" frameWidth="2527" frameHeight="1419"/>
+</TextureAtlas>

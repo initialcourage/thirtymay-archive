@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character antialiasing="true" sprite="boymii/boymii" icon="face" flipX="true" isPlayer="true">
+	<anim x="0" loop="false" y="0" fps="24" anim="bf die" name="firstDeath"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="bf Death loop" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="bf Confirm death" name="deathConfirm"/>
+</character>

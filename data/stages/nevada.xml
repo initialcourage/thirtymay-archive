@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.5" folder="stages/nevada/">
+    <gf x="580" y="420" camyoffset="-167"/>
+    <combo/>
+    <sprite x="-680" y="-680" alpha="1" scalex="1.2" sprite="bg" name="backGround"/>
+    <sprite x="-680" y="710" alpha="1" scalex="1.2" sprite="ground" name="foreGround"/>
+    <dad x="80" y="310" />
+    <bf x="880" y="460" />
+</stage>

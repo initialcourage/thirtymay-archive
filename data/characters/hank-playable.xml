@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="hank/hank-playable" flipX="true" isPlayer="true" icon="face" gameOverChar="ded-hank">
+	<anim name="idle" anim="hank idle dance" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="hank Sing Note left" x="-5" y="-18" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="hank Sing Note down" x="35" y="-27" fps="24" loop="false"/>
+	<anim name="singUP" anim="hank Sing Note up" x="-35" y="85" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="hank SIng Note right" x="-83" y="-5" fps="24" loop="false"/>
+	<anim name="DIE" anim="hank kill tricky" x="350" y="105" fps="24" loop="false" indices="0..128"/>
+	<anim name="dodge" anim="hank dodge" x="35" y="75" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="hank Miss Note left" x="-5" y="-8" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="hank Miss Note down" x="35" y="-5" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="hank Miss Note up" x="-34" y="99" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="hank Miss Note right" x="-95" y="0" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character antialiasing="true" sprite="tricky/tricky-playable" icon="sprite-icon" isPlayer="false">
+	<anim x="0" loop="false" y="0" fps="24" anim="tricky die" name="firstDeath"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="tricky death loop" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="tricky confirm death" name="deathConfirm"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="matt/matt" icon="face" color="#FF9E50">
+	<anim name="idle" anim="matt idle dance" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="matt Sing Note up" x="55" y="146" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="matt Sing Note left" x="155" y="-50" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="matt Sing Note right" x="-80" y="-8" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="matt Sing Note down" x="110" y="-85" fps="24" loop="false"/>
+</character>

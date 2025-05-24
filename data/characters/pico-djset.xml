@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="pico/pico" flipX="true" isPlayer="true" icon="face" color="#84FF5F" gameOverChar="pico-ded">
+	<anim name="idle" anim="pico idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="pico Sing Note up" x="0" y="-8" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="pico Sing Note left" x="0" y="-7" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="pico Sing Note right" x="0" y="8" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="pico Sing Note down" x="0" y="-40" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="pico Miss up" x="1" y="-2" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="pico Miss left" x="5" y="-10" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="pico Miss right" x="3" y="7" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="pico Miss down" x="1" y="-53" fps="24" loop="false"/>
+	<anim name="hey" anim="pico HEY" x="0" y="14" fps="24" loop="false"/>
+	<anim name="DARNELL??" anim="pico dumb ahh nih" x="0" y="100" fps="24" loop="true"/>
+</character>

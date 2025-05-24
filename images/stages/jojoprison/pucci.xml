@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="pucci.png" width="991" height="597">
+	<SubTexture name="evil ass pucci instance 10000" x="1" y="1" width="345" height="593" frameX="-34" frameY="-28" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10001" x="1" y="1" width="345" height="593" frameX="-34" frameY="-28" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10002" x="349" y="1" width="321" height="595" frameX="-47" frameY="-39" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10003" x="349" y="1" width="321" height="595" frameX="-47" frameY="-39" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10004" x="673" y="1" width="317" height="595" frameX="-91" frameY="-20" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10005" x="673" y="1" width="317" height="595" frameX="-91" frameY="-20" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10006" x="349" y="1" width="321" height="595" frameX="-47" frameY="-39" frameWidth="445" frameHeight="639"/>
+	<SubTexture name="evil ass pucci instance 10007" x="349" y="1" width="321" height="595" frameX="-47" frameY="-39" frameWidth="445" frameHeight="639"/>
+</TextureAtlas>

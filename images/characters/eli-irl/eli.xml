@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="eli.png" width="7995" height="988">
+	<SubTexture name="eli HEY0000" x="7384" y="1" width="610" height="986" frameX="-0" frameY="-0" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0001" x="7384" y="1" width="610" height="986" frameX="-0" frameY="-0" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0002" x="4962" y="1" width="587" height="961" frameX="-37" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0003" x="4962" y="1" width="587" height="961" frameX="-37" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0004" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0005" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0006" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0007" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0008" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0009" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0010" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0011" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0012" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0013" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0014" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0015" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0016" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0017" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0018" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0019" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0020" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0021" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0022" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0023" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0024" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0025" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli HEY0026" x="5959" y="1" width="566" height="962" frameX="-40" frameY="-12" frameWidth="624" frameHeight="987"/>
+	<SubTexture name="eli Sing Note down0000" x="1" y="1" width="411" height="752" frameX="-0" frameY="-19" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0001" x="1" y="1" width="411" height="752" frameX="-0" frameY="-19" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0002" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0003" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0004" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0005" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0006" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0007" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0008" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0009" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0010" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0011" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0012" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0013" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0014" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0015" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0016" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0017" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0018" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0019" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0020" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0021" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0022" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0023" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0024" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0025" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note down0026" x="415" y="1" width="412" height="770" frameX="-0" frameY="-0" frameWidth="412" frameHeight="771"/>
+	<SubTexture name="eli Sing Note left0000" x="3949" y="1" width="530" height="949" frameX="-13" frameY="-1" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0001" x="3949" y="1" width="530" height="949" frameX="-13" frameY="-1" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0002" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0003" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0004" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0005" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0006" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0007" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0008" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0009" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0010" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0011" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0012" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0013" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0014" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0015" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0016" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0017" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0018" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0019" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0020" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0021" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0022" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0023" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0024" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0025" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note left0026" x="3013" y="1" width="507" height="946" frameX="-38" frameY="-4" frameWidth="546" frameHeight="951"/>
+	<SubTexture name="eli Sing Note right0000" x="1677" y="1" width="504" height="943" frameX="-0" frameY="-6" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0001" x="1677" y="1" width="504" height="943" frameX="-0" frameY="-6" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0002" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0003" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0004" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0005" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0006" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0007" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0008" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0009" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0010" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0011" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0012" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0013" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0014" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0015" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0016" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0017" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0018" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0019" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0020" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0021" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0022" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0023" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0024" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0025" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note right0026" x="4482" y="1" width="477" height="949" frameX="-6" frameY="-0" frameWidth="504" frameHeight="950"/>
+	<SubTexture name="eli Sing Note up0000" x="5552" y="1" width="404" height="961" frameX="-0" frameY="-0" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0001" x="5552" y="1" width="404" height="961" frameX="-0" frameY="-0" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0002" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0003" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0004" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0005" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0006" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0007" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0008" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0009" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0010" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0011" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0012" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0013" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0014" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0015" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0016" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0017" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0018" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0019" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0020" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0021" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0022" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0023" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0024" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0025" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli Sing Note up0026" x="2608" y="1" width="402" height="945" frameX="-3" frameY="-17" frameWidth="405" frameHeight="962"/>
+	<SubTexture name="eli idle dance0000" x="2184" y="1" width="421" height="944" frameX="-3" frameY="-22" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0001" x="2184" y="1" width="421" height="944" frameX="-3" frameY="-22" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0002" x="830" y="1" width="418" height="935" frameX="-3" frameY="-31" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0003" x="830" y="1" width="418" height="935" frameX="-3" frameY="-31" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0004" x="1251" y="1" width="423" height="938" frameX="-3" frameY="-28" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0005" x="1251" y="1" width="423" height="938" frameX="-3" frameY="-28" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0006" x="3523" y="1" width="423" height="947" frameX="-2" frameY="-19" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0007" x="3523" y="1" width="423" height="947" frameX="-2" frameY="-19" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0008" x="6528" y="1" width="425" height="965" frameX="-0" frameY="-1" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0009" x="6528" y="1" width="425" height="965" frameX="-0" frameY="-1" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0010" x="6956" y="1" width="425" height="966" frameX="-0" frameY="-0" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0011" x="6956" y="1" width="425" height="966" frameX="-0" frameY="-0" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0012" x="6956" y="1" width="425" height="966" frameX="-0" frameY="-0" frameWidth="427" frameHeight="967"/>
+	<SubTexture name="eli idle dance0013" x="6956" y="1" width="425" height="966" frameX="-0" frameY="-0" frameWidth="427" frameHeight="967"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="hank/hank" isPlayer="true" icon="sprite-icon">
+	<anim name="idle" anim="hank idle dance" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="hank Sing Note left" x="-5" y="-18" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="hank Sing Note down" x="-20" y="-27" fps="24" loop="false"/>
+	<anim name="singUP" anim="hank Sing Note up" x="-5" y="85" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="hank SIng Note right" x="77" y="-5" fps="24" loop="false"/>
+	<anim name="shoot" anim="hank shoot" x="-70" y="0" fps="24" loop="false"/>
+	<anim name="dead" anim="hank slimed" x="387" y="273" fps="24" loop="false"/>
+</character>

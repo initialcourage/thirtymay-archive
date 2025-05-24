@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="logoThirty.png" width="5385" height="457">
+	<SubTexture name="logoBumpin0000" x="2776" y="1" width="904" height="442" frameX="-14" frameY="-8" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0001" x="2776" y="1" width="904" height="442" frameX="-14" frameY="-8" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0002" x="1" y="1" width="929" height="455" frameX="-2" frameY="-1" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0003" x="1" y="1" width="929" height="455" frameX="-2" frameY="-1" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0004" x="933" y="1" width="925" height="453" frameX="-4" frameY="-3" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0005" x="933" y="1" width="925" height="453" frameX="-4" frameY="-3" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0006" x="1861" y="1" width="912" height="447" frameX="-10" frameY="-6" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0007" x="1861" y="1" width="912" height="447" frameX="-10" frameY="-6" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0008" x="4537" y="1" width="847" height="416" frameX="-42" frameY="-24" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0009" x="4537" y="1" width="847" height="416" frameX="-42" frameY="-24" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0010" x="3683" y="1" width="851" height="417" frameX="-41" frameY="-23" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0011" x="3683" y="1" width="851" height="417" frameX="-41" frameY="-23" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0012" x="3683" y="1" width="851" height="417" frameX="-41" frameY="-23" frameWidth="937" frameHeight="460"/>
+	<SubTexture name="logoBumpin0013" x="3683" y="1" width="851" height="417" frameX="-41" frameY="-23" frameWidth="937" frameHeight="460"/>
+</TextureAtlas>

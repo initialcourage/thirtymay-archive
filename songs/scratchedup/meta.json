@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 102,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": false,
+	"parsedColor": -7602355,
+	"displayName": "Scratched, UP!",
+	"icon": "gangsta",
+	"name": "scratchedup",
+	"color": "#8BFF4D",
+	"customValues": {}
+}

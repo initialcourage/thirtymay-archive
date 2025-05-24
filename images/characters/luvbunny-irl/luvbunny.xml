@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="luvbunny.png" width="6772" height="937">
+	<SubTexture name="krissy left idle0000" x="1" y="1" width="456" height="924" frameX="-1" frameY="-9" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0001" x="1" y="1" width="456" height="924" frameX="-1" frameY="-9" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0002" x="460" y="1" width="466" height="925" frameX="-0" frameY="-8" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0003" x="460" y="1" width="466" height="925" frameX="-0" frameY="-8" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0004" x="929" y="1" width="463" height="927" frameX="-1" frameY="-6" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0005" x="929" y="1" width="463" height="927" frameX="-1" frameY="-6" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0006" x="1395" y="1" width="447" height="928" frameX="-7" frameY="-5" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0007" x="1845" y="1" width="447" height="928" frameX="-7" frameY="-5" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0008" x="2718" y="1" width="396" height="929" frameX="-18" frameY="-4" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0009" x="2718" y="1" width="396" height="929" frameX="-18" frameY="-4" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0010" x="4803" y="1" width="391" height="933" frameX="-20" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0011" x="4803" y="1" width="391" height="933" frameX="-20" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0012" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0013" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0014" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0015" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0016" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0017" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0018" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0019" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0020" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0021" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0022" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0023" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy left idle0024" x="5197" y="1" width="392" height="933" frameX="-21" frameY="-0" frameWidth="466" frameHeight="934"/>
+	<SubTexture name="krissy right idle0000" x="2295" y="1" width="420" height="928" frameX="-9" frameY="-7" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0001" x="2295" y="1" width="420" height="928" frameX="-9" frameY="-7" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0002" x="3117" y="1" width="434" height="930" frameX="-0" frameY="-5" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0003" x="3117" y="1" width="434" height="930" frameX="-0" frameY="-5" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0004" x="3554" y="1" width="430" height="931" frameX="-2" frameY="-4" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0005" x="3554" y="1" width="430" height="931" frameX="-2" frameY="-4" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0006" x="3987" y="1" width="405" height="931" frameX="-24" frameY="-4" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0007" x="4395" y="1" width="405" height="931" frameX="-24" frameY="-4" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0008" x="6380" y="1" width="391" height="935" frameX="-31" frameY="-0" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0009" x="6380" y="1" width="391" height="935" frameX="-31" frameY="-0" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0010" x="5592" y="1" width="391" height="933" frameX="-25" frameY="-2" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0011" x="5592" y="1" width="391" height="933" frameX="-25" frameY="-2" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0012" x="5986" y="1" width="391" height="933" frameX="-25" frameY="-2" frameWidth="434" frameHeight="936"/>
+	<SubTexture name="krissy right idle0013" x="5986" y="1" width="391" height="933" frameX="-25" frameY="-2" frameWidth="434" frameHeight="936"/>
+</TextureAtlas>

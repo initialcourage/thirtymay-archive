@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.65" folder="stages/streetside/">
+    <combo/>
+    <sprite x="0" y="0" alpha="1" scalex="1.2" sprite="bg" name="leBack"/>
+    <sprite x="0" y="986" alpha="1" scalex="1.2" sprite="ground" name="leGround"/>
+    <dad x="310" y="410"/>
+    <gf x="800" y="220"/>
+    <boyfriend x="1320" y="520" camyoffset="-120" />
+</stage>

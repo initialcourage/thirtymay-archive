@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character antialiasing="true" sprite="hank/hank-playable" icon="sprite-icon" isPlayer="false">
+	<anim x="0" loop="false" y="0" fps="24" anim="hank dieee" name="firstDeath"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="hank death loop" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="hank confirm death" name="deathConfirm"/>
+</character>

@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character antialiasing="true" sprite="ravergirl" icon="face" isPlayer="false">
+	<anim x="0" loop="true" y="0" fps="24" anim="ravergirl_idle" name="idle"/>
+</character>

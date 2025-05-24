@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.58" folder="stages/gym/">
+    <combo/>
+    <sprite x="-450" y="-370" alpha="1" scalex="1.2" sprite="background" name="backGround"/>
+    <sprite x="-450" y="622" alpha="1" scalex="1.2" sprite="ground" name="foreGround"/>
+    <sprite x="900" y="150" alpha="1" scale="1" type="loop" sprite="redMii" name="red mii waving"/>
+    <gf x="350" scroll="1"/>
+    <dad x="50" y="405" camyoffset="-20" scroll="1"/>
+    <boyfriend x="720" y="405" camyoffset="-27" scroll="1"/>
+</stage>

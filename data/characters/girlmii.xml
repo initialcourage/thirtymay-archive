@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="girlmii/girlmii" icon="face" camx="-150">
+	<anim name="danceLeft" anim="gf left dance" x="0" y="0" fps="24" loop="false"/>
+	<anim name="danceRight" anim="gf right dance" x="5" y="0" fps="24" loop="false"/>
+	<anim name="SPAMTIME" anim="gf spam time" x="117" y="126" fps="24" loop="false"/>
+	<anim name="SPAMTIME-loop" anim="gf static spam time" x="9" y="118" fps="24" loop="true"/>
+	<anim name="MATTCALMDOWN" anim="gf no more spam time" x="8" y="155" fps="24" loop="false"/>
+</character>

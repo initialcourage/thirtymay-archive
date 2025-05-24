@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 185,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -4819201,
+	"displayName": "BDay Boy",
+	"icon": "eli",
+	"name": "bdayboy",
+	"color": "#B676FF"
+}
