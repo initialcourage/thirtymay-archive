@@ -1,5 +1,8 @@
+var shader:CustomShader = new CustomShader('ntsc');
+
 function postCreate() {
     camHUD.antialiasing = Options.antialiasing;
+    if(Options.gameplayShaders) camGame.addShader(shader);
 }
 
 function postUpdate() { 
