@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+FUCK YOU NEO.
 -->
 <TextureAtlas imagePath="ravergirl.png" width="321" height="2159">
 	<SubTexture name="ravergirl_idle0000" x="1" y="1" width="319" height="717" frameX="-0" frameY="-0" frameWidth="319" frameHeight="717"/>
