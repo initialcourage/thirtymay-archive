@@ -13,7 +13,7 @@ var _bg:Sprite;
 var redirectStates:Map<FlxState, String> = [
     TitleState => 'maythirty/Title',
     MainMenuState => 'maythirty/MainMenu',
-    //FreeplayState => 'maythirty/Freeplay',
+    FreeplayState => 'maythirty/Freeplay',
 ];
 
 function new() {

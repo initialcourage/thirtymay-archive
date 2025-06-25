@@ -1,3 +1,4 @@
+if(PlayState.difficulty != 'alt') {
 function postCreate() {
     camZooming = true;
     camGame.fade(FlxColor.BLACK, 0);
@@ -8,7 +9,7 @@ function onSongStart() camZooming = false;
 
 function stepHit() {
     switch(curStep) {
-        case 0:
+        case 1:
             camGame.fade(FlxColor.BLACK, (Conductor.stepCrochet / 1000)*160, true);
             FlxTween.tween(camGame, {zoom: 0.7}, (Conductor.stepCrochet / 1000)*160, {onComplete: (_) -> defaultCamZoom = 0.7});
             FlxTween.tween(camHUD, {alpha: 1}, 0.2);
@@ -21,3 +22,4 @@ function stepHit() {
 }
 
 function onDadHit(_) camGame.shake(0.007, .1);
+}
